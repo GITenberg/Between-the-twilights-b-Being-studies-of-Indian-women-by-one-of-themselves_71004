@@ -1,0 +1,34 @@
+_repo: Between-the-twilights-b-Being-studies-of-Indian-women-by-one-of-themselves_71004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sorabji, Cornelia
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '55357'
+    url: http://www.gutenberg.org/2009/agents/55357
+    wikipedia: https://en.wikipedia.org/wiki/Cornelia_Sorabji
+description: ''
+gutenberg_issued: '2023-06-20'
+identifiers:
+  gutenberg: '71004'
+  lccn: '12009987'
+language: en
+pgterms:marc904: https://archive.org/details/betweentwilights00soraiala
+pgterms:marc905: 20220730075715sorabji
+pgterms:marc906: '1908'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUK :$bHarper and Brothers, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Social conditions'
+- !lcsh 'Women -- India'
+- !lcc 'DS'
+- !lcc 'HQ'
+- GITenberg
+title: 'Between the twilights : $b Being studies of Indian women by one of themselves'
+url: http://www.gutenberg.org/ebooks/71004
